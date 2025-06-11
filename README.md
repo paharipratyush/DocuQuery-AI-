@@ -62,7 +62,7 @@ DocuQuery AI operates through a sophisticated pipeline:
 7.  **Interactive Experience:** Streamlit provides the web interface, managing session state to enable "Continue Answer" and "Dive Deeper" functionalities, allowing users to explore information incrementally.
 8.  **Rate Limiting:** A `TokenBucket` mechanism ensures responsible API usage, preventing excessive calls to the Gemini LLM.
 
-*For a visual representation of the architecture, please refer to the project's documentation or a separate diagram if available.*
+*For a visual representation of the architecture, please refer to the project's documentation or a separate diagram.*
 
 ## 🛠️ Prerequisites
 

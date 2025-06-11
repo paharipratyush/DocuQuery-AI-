@@ -1,0 +1,15 @@
+streamlit
+faiss-cpu
+validators
+numpy
+langchain
+langchain-community
+langchain-google-genai
+PyPDF2
+python-docx
+tqdm
+sentence-transformers
+beautifulsoup4
+google-api-core
+selenium
+webdriver-manager

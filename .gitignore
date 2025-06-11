@@ -1,0 +1,19 @@
+# Ignore the API key file
+secret_api_keys.py
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+.venv/
+venv/
+env/
+
+# Ignore log files
+*.log
+
+# Ignore Selenium WebDriver binaries
+chromedriver*
+geckodriver*
+msedgedriver*
